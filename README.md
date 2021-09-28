@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jamie
+👋 Hi, I’m Jamie
 - Mechanical Engineer turned Data Scientist
 - I'm current working as a Safety & Reliability Engineer in Manchester, UK.
 
